@@ -1,4 +1,4 @@
-# Pomodoro-таймер
+# Pomodoro-таймер · Pomodoro Timer
 
 Таймер по технике Pomodoro: 25 минут фокуса, короткий перерыв, а после четырёх циклов длинный.
 
@@ -14,6 +14,7 @@
 - Своя длительность каждого режима.
 - Горячие клавиши: пробел запускает и ставит на паузу, R сбрасывает.
 - Таймер считает время от отметки окончания и не отстаёт в фоновой вкладке.
+- Интерфейс на русском и английском, переключатель RU / EN в шапке.
 
 ## Технологии
 
@@ -25,4 +26,17 @@ HTML, CSS, JavaScript без библиотек: SVG `stroke-dashoffset`, Web Au
 
 ---
 
-Часть [портфолио](https://taintedrr.github.io/portfolio/) · [все проекты](https://github.com/TaintedRR)
+## English
+
+A Pomodoro timer: 25 minutes of focus, a short break, and a long break after four cycles.
+
+- Focus, short break and long break modes, each with its own color.
+- SVG progress ring and the time left in the browser tab title.
+- Optional auto-start of the next stage and a sound alert generated with the Web Audio API.
+- A daily log of finished pomodoros and custom durations.
+- Russian and English interface with an RU / EN switch.
+- Plain HTML, CSS and JavaScript. Open `index.html` to run it.
+
+---
+
+Часть [портфолио](https://taintedrr.github.io/portfolio/) · Part of my [portfolio](https://taintedrr.github.io/portfolio/) · [GitHub](https://github.com/TaintedRR)
