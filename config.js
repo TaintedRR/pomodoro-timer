@@ -13,7 +13,7 @@ window.PORTFOLIO = {
   branch: "main",
 
   // Ник в Telegram (без @). Оставь пустым, чтобы скрыть
-  telegram: "luvippawi",
+  telegram: "luvippawii",
   // Полная ссылка на LinkedIn или пустая строка, чтобы скрыть
 
   // repo — отдельный репозиторий проекта на GitHub, туда ведёт кнопка «Код»
